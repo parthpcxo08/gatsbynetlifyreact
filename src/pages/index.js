@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Hi Parth</h1>
-    <p>Welcome to your new Gatsby site.</p>
+    <p>Welcome to your new Gatsby site with netlify.</p>
     <p>Now go build something great.</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
